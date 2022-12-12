@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/prantalks" target="blank"><img src="https://img.shields.io/twitter/follow/prantalks?logo=twitter&style=for-the-badge" alt="prantalks" /></a> </p>
 
-- 🔭 I’m currently working on **AutoRest [Automated Restaurant App]**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **pbiswas1007@gmail.com**
