@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prantosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="gif" align="right" width="290" >
+<p> <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="100%" ></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantoshb&label=Profile%20views&color=0e75b6&style=flat" alt="prantoshb" /> </p>
 
