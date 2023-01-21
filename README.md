@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantoshb&label=Profile%20views&color=0e75b6&style=flat" alt="prantoshb" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **React , Redux**
 
-- 👨‍💻 All of my projects are available at [https://prantosh.site](https://prantosh.site)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Flutter**
+- 💬 Ask me about **HTML, CSS, JavaScript, Flutter**
 
 - 📫 How to reach me **pbiswas1007@gmail.com**
 
