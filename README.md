@@ -8,7 +8,7 @@
 <div align="center">
 <div style="height:10px"></div>
 
-  <img src="https://komarev.com/ghpvc/?username=PrantoshB&color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=PrantoshB&color=red">
 
 </div>
 
