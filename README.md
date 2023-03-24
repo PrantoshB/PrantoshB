@@ -51,8 +51,3 @@
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prantoshb&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoshb&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
-
-<h2>Weekly Coding Stats</h2>
-
-
-[![Prantosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoshB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
