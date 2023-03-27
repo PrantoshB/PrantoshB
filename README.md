@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner-prantosh.png)
 
 <h2>Hey There! 👋</h2>
 
