@@ -5,9 +5,8 @@
 [![Profile Visitor](https://komarev.com/ghpvc/?username=PrantoshB&color=brightgreen)](https://github.com/PrantoshB)
 ## I'm Prantosh Biswas 😉
 
-- 🎓 I have a **Bachelor's degree** in Mathematics. Obtained from the University of Gour Banga, India.
 
-- 👨🏻‍💻 I am learning **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
+- 👨🏻‍💻 I have completed **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
 
 - 🌱 I’m currently working on side projects and applying to jobs.
 
@@ -15,7 +14,7 @@
 
 - ✨ Interests: coding, reading books, playing video games.
 
-- ⚡ Fact about me: **I have been working as a Freelance Website and Mobile Application Developer for almost 5 years**.
+- ⚡ Fact about me: **I have a Bachelor's degree in Mathematics.**
 
 - 🧔🏻 Pronouns: He/Him.
 
