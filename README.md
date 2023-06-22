@@ -1,4 +1,4 @@
-![Banner](https://github.com/PrantoshB/PrantoshB/blob/master/%40prantalks.png)
+![Banner](https://github.com/PrantoshB/PrantoshB/blob/master/pran.png)
 
 <h2>Hey There! 👋</h2>
 
