@@ -32,3 +32,8 @@
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:pbiswas1007@gmail.com">![pbiswas1007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/prantosh/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<h2>Support 💗</h2>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prantosh)
+
