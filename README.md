@@ -6,7 +6,7 @@
 ## I'm Prantosh Biswas 😉
 
 
-- 👨🏻‍💻 I have completed **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
+- 👨🏻‍💻 I have completed **Full-Stack Software Development** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
 
 - 🌱 I’m currently working on side projects and applying to jobs.
 
@@ -26,7 +26,6 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoshB&show_icons=true&theme=nightowl&layout=compact&count_prrivate=true"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prantoshb&theme=radical&card_width=799)](https://git.io/streak-stats)
 
 
 <h2>📫 How to reach me:</h2>
