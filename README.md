@@ -6,9 +6,7 @@
 ## I'm Prantosh Biswas 😉
 
 
-- 👨🏻‍💻 I have completed **Full-Stack Software Development** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
-
-- 🌱 I’m currently working on side projects and applying to jobs.
+- 👨🏻‍💻 I am currently working as a Software Engineer at a Startup based in London
 
 - 💻 All my projects are available [here.](https://github.com/PrantoshB?tab=repositories)
 
