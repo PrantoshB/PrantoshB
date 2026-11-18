@@ -6,7 +6,7 @@
 ## I'm Prantosh Biswas 😉
 
 
-- 👨🏻‍💻 I am currently working as a Software Engineer at a Startup based in London
+- 👨🏻‍💻 My last role was as a Lead Software Engineer at a Startup based in London
 
 - 💻 All my projects are available [here.](https://github.com/PrantoshB?tab=repositories)
 
